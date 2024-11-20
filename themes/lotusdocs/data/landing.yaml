@@ -25,11 +25,11 @@ hero:
     height: 80px
 
   title: "Welcome!"
-  subtitle: Smart Supply Chain - From Fundamental and Conceptual to Technology Implementation (Smart-SCM)
+  subtitle: Large Language Models via Rust (LMVR)
   image:
     path: "images" # path to image under configured assets directory. default 'images'
     filename: "cover.png" # filename of your hero image (including file extension)
-    alt: "SSCM Cover" # Optional but recommended
+    alt: "LMVR Cover" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: false # round the image corners? default 'false' (excludes .svg images)
 
