@@ -26,7 +26,6 @@ Neural networks have become a fundamental tool for processing and understanding 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-oLn6fvAtaJcnox1LeTx1-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Interactive Learning tool for FNN or MLP architecture (<a href="https://deeperplayground.org/">https://deeperplayground.org</a>).</p>
-        <p>Interactive Learning tool for FNN or MLP architecture (<a href="https://deeperplayground.org/">https://deeperplayground.org</a>).</p>
     </div>
 </div>
 
@@ -78,7 +77,6 @@ During the training of a neural network, the process of updating the weights is 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-xnfZc9XDGxcxrWVR8iKl-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Backpropagation and gradient descent.</p>
-        <p>Backpropagation and gradient descent.</p>
     </div>
 </div>
 

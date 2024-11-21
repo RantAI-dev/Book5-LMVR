@@ -24,7 +24,7 @@ For students in the Mathematics faculty, understanding the mathematics behind LL
 </p>
 
 <p style="text-align: justify;">
-In the realm of AI, Rust has emerged as the best companion for developing the low-level systems that power LLM applications. Unlike more widely adopted languages like Python, Rust offers unmatched advantages in terms of memory safety, concurrency, and performance optimization. These features are especially important when building and deploying LLMs at scale, where efficiency and reliability are paramount. Rust’s growing ecosystem, with powerful crates like <em>burn</em> and Hugging Face’s <em>candle</em>, provides the necessary tools to implement sophisticated neural architectures while ensuring that the underlying systems are robust and efficient.
+In the realm of AI, Rust has emerged as the best companion for developing the low-level systems that power LLM applications. Unlike more widely adopted languages like Python, Rust offers unmatched advantages in terms of memory safety, concurrency, and performance optimization. These features are especially important when building and deploying LLMs at scale, where efficiency and reliability are paramount. Rust’s growing ecosystem, with powerful crates like burn and Hugging Face’s candle, provides the necessary tools to implement sophisticated neural architectures while ensuring that the underlying systems are robust and efficient.
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +32,7 @@ However, it is important to remember that tools and frameworks are only as power
 </p>
 
 <p style="text-align: justify;">
-This book, <em>LMVR - Large Language Model via Rust</em>, is designed to guide you through both the theoretical and practical aspects of LLMs. It emphasizes the importance of a strong mathematical foundation while introducing you to the practicalities of implementing LLMs using Rust. By doing so, it bridges the gap between high-level mathematical concepts and low-level system implementation, offering a comprehensive guide for those looking to excel in this field.
+This book, LMVR - Large Language Model via Rust, is designed to guide you through both the theoretical and practical aspects of LLMs. It emphasizes the importance of a strong mathematical foundation while introducing you to the practicalities of implementing LLMs using Rust. By doing so, it bridges the gap between high-level mathematical concepts and low-level system implementation, offering a comprehensive guide for those looking to excel in this field.
 </p>
 
 <p style="text-align: justify;">
