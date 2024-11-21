@@ -16,30 +16,30 @@ toc: true
 
 {{% alert icon="📘" context="success" %}}
 <p style="text-align: justify;">
-Welcome to <em>LMVR - Large Language Models via Rust</em>, a groundbreaking guide that explores the intersection of cutting-edge AI and the unmatched strengths of Rust. As the field of artificial intelligence evolves, particularly in the domain of large language models (LLMs), the need for scalable, efficient, and reliable programming solutions becomes increasingly evident. Rust’s performance, memory safety, and concurrency make it a compelling choice for developing robust LLM applications, and this book aims to help you unlock that potential.
+The field of artificial intelligence, particularly in the development of large language models (LLMs), has been rapidly evolving, with most implementations relying on languages like Python due to their ease of use and extensive libraries. However, as these models grow in complexity and are deployed in increasingly demanding environments, the limitations of existing languages become apparent. In this context, we see immense potential in Rust as the main language for the development of LLM applications. Rust offers unparalleled memory safety, performance optimization, and concurrency, which are critical for building scalable and reliable AI systems that can operate efficiently in real-world settings.
 </p>
 
 <p style="text-align: justify;">
-In <em>LMVR</em>, we explore how Rust’s ecosystem, coupled with open-source tools like <code>burn</code> and <code>candle</code>, provides the foundation for creating state-of-the-art LLMs. These frameworks enable the development of high-performance neural architectures, optimized for both training and deployment in real-world applications. By bridging Rust's systems-level capabilities with the requirements of AI, we aim to push the boundaries of LLM development, showcasing how Rust can rival—and even surpass—more traditional languages in this space.
+Our journey in creating LMVR - Large Language Model via Rust was driven by the inspiration to bring the power of Rust into the domain of LLMs. We set out to reproduce and enhance many of the state-of-the-art LLM models using Rust, leveraging open-source crates like burn and candle. These tools, coupled with Rust’s unique capabilities, provide the foundation for developing sophisticated neural architectures that can meet the high-performance requirements of modern AI applications. By doing so, we aim to demonstrate Rust's potential to not only match but exceed the capabilities of more traditional languages in the field of AI, pushing the boundaries of what is possible in LLM development.
 </p>
 
-- <p style="text-align: justify;"><code>burn</code>: A modular, high-level framework for creating deep learning models in Rust, designed to facilitate experimentation and scalability.</p>
-- <p style="text-align: justify;"><code>candle</code>: A lightweight, fast library optimized for deploying pre-trained models, making it ideal for LLM inference at scale.</p>
+<!-- - <p style="text-align: justify;"><code>burn</code>: A modular, high-level framework for creating deep learning models in Rust, designed to facilitate experimentation and scalability.</p>
+- <p style="text-align: justify;"><code>candle</code>: A lightweight, fast library optimized for deploying pre-trained models, making it ideal for LLM inference at scale.</p> -->
 
 <p style="text-align: justify;">
-Our journey in creating this book was supported by cutting-edge Generative AI (GenAI) technologies, including ChatGPT and Gemini. These tools were instrumental in synthesizing knowledge, providing clarity, and ensuring that <em>LMVR</em> reflects the latest advancements in the rapidly evolving world of LLMs. By leveraging AI-driven insights alongside human expertise, we’ve crafted a resource that is as comprehensive as it is accessible, designed for learners and practitioners alike.
-</p>
-
-<p style="text-align: justify;">
-<em>LMVR</em> is more than just a technical manual; it’s a testament to the transformative power of combining Rust's capabilities with the possibilities of AI. Through step-by-step guides, practical exercises, and real-world case studies, this book equips you with the skills to design, build, and deploy large language models effectively. Whether you are an academician, a student, or a professional, <em>LMVR</em> provides the theoretical foundations and practical tools needed to excel in this exciting field.
+In crafting this book, we embraced the cutting-edge advancements in Generative AI (GenAI) technologies, utilizing tools such as ChatGPT and Gemini. These AI-driven tools were instrumental in the writing process, allowing us to summarize and synthesize state-of-the-art knowledge with a level of precision and clarity that might otherwise have been difficult to achieve. The use of GenAI reflects our deep commitment to capturing the most current and relevant insights in the rapidly evolving field of LLMs, ensuring that LMVR is both comprehensive and accessible to a wide audience of learners and practitioners.
 </p>
 
 <p style="text-align: justify;">
-We are especially proud to bring this book to the global AI and software engineering communities from Indonesia. At RantAI, we believe in empowering the next generation of AI practitioners by fostering innovation and collaboration. Our hope is that <em>LMVR</em> will inspire you to explore Rust's potential, contributing to a thriving community of developers who are shaping the future of AI.
+LMVR is not merely a technical guide; it is a manifestation of our passion for advancing AI through the seamless integration of human expertise and AI-assisted knowledge creation. This book represents our belief that by combining the rigorous, systems-level capabilities of Rust with the vast possibilities of LLMs, we can create tools that are not only powerful but also adaptable to the varied and complex needs of modern AI applications. We have poured our dedication into making LMVR a resource that serves as both an educational foundation and a source of inspiration for those looking to explore and expand the frontiers of AI.
 </p>
 
 <p style="text-align: justify;">
-As you embark on this journey, we invite you to join us in advancing the frontiers of AI through Rust. Together, we can create scalable, secure, and impactful solutions that drive innovation and contribute to the global AI community. Let <em>LMVR</em> be your guide as you explore the exciting possibilities of large language models in Rust.
+We envision LMVR as a significant contribution to the AI and software engineering communities, particularly within Indonesia. Our goal is to empower students, educators, and developers with the knowledge and tools to harness Rust for LLM development, fostering a new era of innovation and expertise in AI. We believe that by equipping a new generation of AI practitioners with these skills, we can contribute to a thriving community that leads advancements in AI on a global scale.
+</p>
+
+<p style="text-align: justify;">
+As you delve into the chapters of LMVR, we invite you to join us in this journey of exploration and discovery. This book is designed to be your guide, providing the theoretical foundations, practical insights, and technical skills necessary to master large language models using Rust. Whether you are an academician, a student, or a professional in the industry, LMVR is crafted to help you not only learn but also contribute to the ongoing evolution of AI. Together, we can shape the future of AI development, making meaningful contributions that will resonate far beyond the confines of the classroom or the laboratory, ultimately driving progress and innovation in the global AI community.
 </p>
 {{% /alert %}}
 

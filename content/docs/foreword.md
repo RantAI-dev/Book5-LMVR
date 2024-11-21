@@ -20,7 +20,7 @@ In the ever-evolving landscape of technology, the rise of Generative AI (GenAI) 
 </p>
 
 <p style="text-align: justify;">
-Raffy’s next question was just as insightful: "What language is the best to learn for this?" My response was Rust, a language that, despite being relatively new to the field of AI compared to Python, offers unparalleled advantages. Rust's language features—such as memory safety, concurrency, and performance optimization—combined with its growing ecosystem of crates like <em>tch-rs</em> and Hugging Face’s <em>candle</em>, make it a powerful tool for building and deploying LLMs.
+Raffy’s next question was just as insightful: "What language is the best to learn for this?" My response was Rust, a language that, despite being relatively new to the field of AI compared to Python, offers unparalleled advantages. Rust's language features—such as memory safety, concurrency, and performance optimization—combined with its growing ecosystem of crates like tch-rs and Hugging Face’s candle, make it a powerful tool for building and deploying LLMs.
 </p>
 
 <p style="text-align: justify;">
@@ -32,7 +32,7 @@ Learning about LLMs is, at its core, a journey into mathematical abstraction and
 </p>
 
 <p style="text-align: justify;">
-I hope that this book, <em>LMVR</em> will attract and inspire a new generation of talents, not only in computer science but also in mathematics and physics. These disciplines are fundamental to understanding and advancing AI, and I believe that with the help of GenAI, more students will find the journey of learning LLMs both accessible and exhilarating. This book is not just a guide to Rust and LLMs; it is an invitation to explore the future of AI with curiosity and confidence. I encourage students and lecturers alike to embrace this new era of learning, where the synergy between human understanding and AI capabilities can lead to unprecedented innovation and discovery.
+I hope that this book, LMVR will attract and inspire a new generation of talents, not only in computer science but also in mathematics and physics. These disciplines are fundamental to understanding and advancing AI, and I believe that with the help of GenAI, more students will find the journey of learning LLMs both accessible and exhilarating. This book is not just a guide to Rust and LLMs; it is an invitation to explore the future of AI with curiosity and confidence. I encourage students and lecturers alike to embrace this new era of learning, where the synergy between human understanding and AI capabilities can lead to unprecedented innovation and discovery.
 </p>
 {{% /alert %}}
 

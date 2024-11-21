@@ -330,7 +330,6 @@ The model begins by embedding the input tokens, followed by applying self-attent
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-o4MwjDyZXabb4UALaByg-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Loss plot of character level language model using GPT-2 like architecture.</p>
-        <p>Loss plot of character level language model using GPT-2 like architecture.</p>
     </div>
 </div>
 
@@ -665,7 +664,6 @@ As Large Language Models (LLMs) continue to evolve, their development and deploy
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Ke80Y1AtmMlCIrwByvrt-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> LLM ethical consideration complexity.</p>
-        <p>LLM ethical consideration complexity.</p>
     </div>
 </div>
 

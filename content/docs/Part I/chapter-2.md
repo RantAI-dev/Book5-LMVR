@@ -30,7 +30,6 @@ In the language of linear algebra, vector spaces provide a formal framework to u
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-jwJbCh3P4pGx2LB9YHme-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 1:</span> Illustration of vector space for NLP.</p>
-        <p>Illustration of vector space for NLP.</p>
     </div>
 </div>
 
@@ -137,7 +136,6 @@ In the world of LLMs, probability and statistics play an essential role in under
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-9SuVOjzqbJWbcs1GsWHq-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Roles of probability and statistics in LLMs.</p>
-        <p>Roles of probability and statistics in LLMs.</p>
     </div>
 </div>
 
@@ -260,7 +258,6 @@ In the development and training of Large Language Models (LLMs), calculus is fun
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-HAkqlPnDmnvkCgALfKs7-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Optimization cycle in training LLMs.</p>
-        <p>Optimization cycle in training LLMs.</p>
     </div>
 </div>
 
@@ -317,7 +314,6 @@ Jacobians and Hessians are matrix representations of the first and second deriva
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-UA416PCEldbMPUIr2kvE-v1.gif" >}}
         <p><span class="fw-bold ">Figure 4:</span> Animation of 5 gradient descent methods on a surface: SGD (cyan), Momentum (magenta), AdaGrad (white), RMSProp (green), Adam (blue). Left well is the global minimum; right well is a local minimum.</p>
-        <p>Animation of 5 gradient descent methods on a surface: SGD (cyan), Momentum (magenta), AdaGrad (white), RMSProp (green), Adam (blue). Left well is the global minimum; right well is a local minimum.</p>
     </div>
 </div>
 
@@ -761,7 +757,6 @@ Principal Component Analysis (PCA) is a widely used technique for dimensionality
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-28fwUEkC1vJukNX5t4aW-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Illustration of PCA method for dimensionality reduction. useuse\\</p>
-        <p>Illustration of PCA method for dimensionality reduction. useuse\\</p>
     </div>
 </div>
 
