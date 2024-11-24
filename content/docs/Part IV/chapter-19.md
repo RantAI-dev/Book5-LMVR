@@ -3,8 +3,8 @@ weight: 3300
 title: "Chapter 19"
 description: "Graph Neural Networks and LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.203823+07:00"
-lastmod: "2024-11-19T16:42:28.203823+07:00"
+date: "2024-11-21T08:42:18.820119+07:00"
+lastmod: "2024-11-21T08:42:18.820119+07:00"
 katex: true
 draft: false
 toc: true
@@ -30,7 +30,6 @@ GNNs excel in applications across fields where relationships and structures are 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-UUqKcglEwSzOqJUKW5rS-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 1:</span> Areas of applications of Graph Neural Networks (GNNs).</p>
-        <p>Areas of applications of Graph Neural Networks (GNNs).</p>
     </div>
 </div>
 
@@ -133,7 +132,6 @@ A data pipeline to build a Graph Neural Network (GNN) begins with data acquisiti
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-xoIPWSLmRHAkitOz8ZCQ-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> An illustration of data preprocessing for GNNs.</p>
-        <p>An illustration of data preprocessing for GNNs.</p>
     </div>
 </div>
 
@@ -347,7 +345,6 @@ Integrating Graph Neural Networks (GNNs) and Large Language Models (LLMs) opens 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-T7fPKFPP7uSvrlEqCN7x-v1.webp" >}}
         <p><span class="fw-bold ">Figure 3:</span> Common use cases of LLMs and GNNs integrations.</p>
-        <p>Common use cases of LLMs and GNNs integrations.</p>
     </div>
 </div>
 
@@ -475,7 +472,6 @@ Deploying GNN-LLM models in production environments requires a careful balance b
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-33mPvOUsNhGVLlj8CHj6-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Complexities of deploying GNN-LLM models.</p>
-        <p>Complexities of deploying GNN-LLM models.</p>
     </div>
 </div>
 
@@ -614,7 +610,6 @@ The deployment of GNN-LLM models brings both opportunities and challenges, parti
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-wrmeF4lkRHdVzS6W25cg-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> GNN-LLM Model Deployment Scopes.</p>
-        <p>GNN-LLM Model Deployment Scopes.</p>
     </div>
 </div>
 
@@ -771,7 +766,6 @@ The combination of Graph Neural Networks (GNNs) and Large Language Models (LLMs)
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-9RqlMpgzEshNJ3Zl9mQV-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> GNN-LLM Apps and Its Complexities.</p>
-        <p>GNN-LLM Apps and Its Complexities.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 2500
 title: "Chapter 13"
 description: "Inference and Deployment of LLMs"
 icon: "article"
-date: "2024-11-19T16:42:27.933656+07:00"
-lastmod: "2024-11-19T16:42:27.933656+07:00"
+date: "2024-11-21T08:42:18.524203+07:00"
+lastmod: "2024-11-21T08:42:18.524203+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Inference is the process by which large language models (LLMs) transform learned
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-sEAla7D6J7qjkg82lm8Z-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> The flow of LLM inference and deployment process.</p>
-        <p>The flow of LLM inference and deployment process.</p>
     </div>
 </div>
 
@@ -277,7 +276,6 @@ Optimizing inference pipelines is essential for deploying large language models 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-50OTZwwXKTk0pNuHpjUD-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Inference pipeline for LLMs deployment.</p>
-        <p>Inference pipeline for LLMs deployment.</p>
     </div>
 </div>
 
@@ -558,7 +556,6 @@ Model serving in production environments involves providing a structured, reliab
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-cZM3B7olXb0jwmbVoTQG-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Model Serving pipeline for LLMs.</p>
-        <p>Model Serving pipeline for LLMs.</p>
     </div>
 </div>
 
@@ -887,7 +884,6 @@ Scaling inference workloads is critical in deploying large language models (LLMs
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-TcLeNXWIaYt1Rzee4O6Z-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Horizontal vs vertical scaling.</p>
-        <p>Horizontal vs vertical scaling.</p>
     </div>
 </div>
 
@@ -1157,7 +1153,6 @@ Edge deployment has become increasingly significant in applications where low-la
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-p1wZi4vKOsOsPpVKHwDB-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Edge deployment pipeline for LLMs.</p>
-        <p>Edge deployment pipeline for LLMs.</p>
     </div>
 </div>
 
@@ -1393,7 +1388,6 @@ In deploying large language models (LLMs), security considerations are crucial, 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ti4TW3crBWVEgL12fUMw-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Key challenges in LLM security.</p>
-        <p>Key challenges in LLM security.</p>
     </div>
 </div>
 
@@ -1920,7 +1914,6 @@ Real-world case studies highlight the value of Rust’s performance, memory safe
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-lk6GRwYlaFEHsHC73O59-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Rust’s role in LLM deployment.</p>
-        <p>Rust’s role in LLM deployment.</p>
     </div>
 </div>
 

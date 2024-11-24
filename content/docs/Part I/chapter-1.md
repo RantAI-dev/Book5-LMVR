@@ -3,8 +3,8 @@ weight: 900
 title: "Chapter 1"
 description: "Introduction to Large Language Models"
 icon: "article"
-date: "2024-11-19T16:42:27.672485+07:00"
-lastmod: "2024-11-19T16:42:27.672485+07:00"
+date: "2024-11-21T08:42:18.220830+07:00"
+lastmod: "2024-11-21T08:42:18.220830+07:00"
 katex: true
 draft: false
 toc: true

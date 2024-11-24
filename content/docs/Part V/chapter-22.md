@@ -3,8 +3,8 @@ weight: 3800
 title: "Chapter 22"
 description: "Advanced Prompt Engineering Techniques"
 icon: "article"
-date: "2024-11-19T16:42:28.419596+07:00"
-lastmod: "2024-11-19T16:42:28.419596+07:00"
+date: "2024-11-21T08:42:19.052181+07:00"
+lastmod: "2024-11-21T08:42:19.052181+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Chain of Thought (CoT) prompting is an advanced technique in natural language pr
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-8iqqzQOhiK9GLxDo5DqS-v1.webp" >}}
         <p><span class="fw-bold ">Figure 1:</span> Illustration of CoT from <a href="https://www.promptingguide.ai/techniques/cot">https://www.promptingguide.ai</a>.</p>
-        <p>Illustration of CoT from <a href="https://www.promptingguide.ai/techniques/cot">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -134,7 +133,6 @@ Meta prompting, as outlined by Zhang et al. (2024), is characterized by a struct
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-QKNUj0jiZFpwnsmNVkHB-v1.webp" >}}
         <p><span class="fw-bold ">Figure 2:</span> Illustration of Meta prompting from <a href="https://www.promptingguide.ai/techniques/meta-prompting">https://www.promptingguide.ai</a>.</p>
-        <p>Illustration of Meta prompting from <a href="https://www.promptingguide.ai/techniques/meta-prompting">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -352,7 +350,6 @@ Generate Knowledge Prompting is an advanced prompt engineering technique aimed a
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ZaemenODLpEl19dUvawc-v1.webp" >}}
         <p><span class="fw-bold ">Figure 3:</span> Illustration of Generate Knowledge prompting from <a href="https://www.promptingguide.ai/techniques/knowledge">https://www.promptingguide.ai.</a></p>
-        <p>Illustration of Generate Knowledge prompting from <a href="https://www.promptingguide.ai/techniques/knowledge">https://www.promptingguide.ai.</a></p>
     </div>
 </div>
 
@@ -574,7 +571,6 @@ Tree of Thoughts (ToT) is an advanced framework in prompt engineering, recently 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-9X5RNf8TTq3k8KPfpjJ2-v1.webp" >}}
         <p><span class="fw-bold ">Figure 4:</span> Illustration of CoT, CoT-SC and ToT from <a href="https://www.promptingguide.ai/techniques/tot">https://www.promptingguide.ai</a>.</p>
-        <p>Illustration of CoT, CoT-SC and ToT from <a href="https://www.promptingguide.ai/techniques/tot">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -715,7 +711,6 @@ Automatic Prompt Engineering (APE) marks a groundbreaking advancement in prompt 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-1J9LtA4XuSXY8k9wkWmJ-v1.webp" >}}
         <p><span class="fw-bold ">Figure 5:</span> Automatic Prompt Engineer prompting from <a href="https://www.promptingguide.ai/techniques/ape">https://www.promptingguide.ai</a>.</p>
-        <p>Automatic Prompt Engineer prompting from <a href="https://www.promptingguide.ai/techniques/ape">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -851,7 +846,6 @@ Automatic Reasoning is a powerful technique that significantly enhances the capa
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-jq1Q1mXEIVGZEV8ZbBJK-v1.webp" >}}
         <p><span class="fw-bold ">Figure 6:</span> Illustration of Automatic Reasoning from <a href="https://www.promptingguide.ai/techniques/art">https://www.promptingguide.ai</a>.</p>
-        <p>Illustration of Automatic Reasoning from <a href="https://www.promptingguide.ai/techniques/art">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -1094,7 +1088,6 @@ The ReAct framework empowers LLMs to engage in complex reasoning by producing ve
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-4LBxbjx68Jg11eFYQmEa-v1.webp" >}}
         <p><span class="fw-bold ">Figure 7:</span> Illustration of ReAct prompting technique from <a href="https://www.promptingguide.ai/techniques/react">https://www.promptingguide.ai</a>.</p>
-        <p>Illustration of ReAct prompting technique from <a href="https://www.promptingguide.ai/techniques/react">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -1362,7 +1355,6 @@ Multi-Modal Chain of Thought (CoT) Prompting is a groundbreaking framework that 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-EKlgBB8ZDa8cN97FVshz-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> Illustration of multi-modal CoT prompt from <a href="https://www.promptingguide.ai/techniques/multimodalcot">https://www.promptingguide.ai</a>.</p>
-        <p>Illustration of multi-modal CoT prompt from <a href="https://www.promptingguide.ai/techniques/multimodalcot">https://www.promptingguide.ai</a>.</p>
     </div>
 </div>
 
@@ -1514,7 +1506,6 @@ Graph Prompting introduces a structured approach to prompt engineering by levera
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-BnhLKylRYnWC2nOLELWt-v1.png" >}}
         <p><span class="fw-bold ">Figure 9:</span> Motivation of Graph Prompting from Liu et.al (<a href="https://arxiv.org/pdf/2302.08043">https://arxiv.org/pdf/2302.08043</a>).</p>
-        <p>Motivation of Graph Prompting from Liu et.al (<a href="https://arxiv.org/pdf/2302.08043">https://arxiv.org/pdf/2302.08043</a>).</p>
     </div>
 </div>
 

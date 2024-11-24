@@ -3,8 +3,8 @@ weight: 4200
 title: "Chapter 26"
 description: "Federated Learning and Privacy-Preserving LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.595127+07:00"
-lastmod: "2024-11-19T16:42:28.595127+07:00"
+date: "2024-11-21T08:42:19.264682+07:00"
+lastmod: "2024-11-21T08:42:19.264682+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Federated learning (FL) represents a paradigm shift in the way large language mo
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-mzx42qxfZQcUwyt5nwzj-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 1:</span> Centrally trained vs Federated Learning LLMs development.</p>
-        <p>Centrally trained vs Federated Learning LLMs development.</p>
     </div>
 </div>
 
@@ -46,7 +45,6 @@ SMPC enables collaborative analysis of sensitive data, such as patient genomes a
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-SREHqfb9TjIDijQKpnhC-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Example of SMPC use cases in Healthcare industry.</p>
-        <p>Example of SMPC use cases in Healthcare industry.</p>
     </div>
 </div>
 
@@ -284,7 +282,6 @@ Privacy-preserving techniques are fundamental in modern large language models (L
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-V4zvqF6ecZ7qGdmtGtnk-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Privacy preserving techniques in LLMs.</p>
-        <p>Privacy preserving techniques in LLMs.</p>
     </div>
 </div>
 
@@ -610,7 +607,6 @@ The Rust ecosystem provides a compelling foundation for implementing federated l
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-eKnoZtFQIP3oQKQs9x3F-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Implementation cycle of federated learning in Rust.</p>
-        <p>Implementation cycle of federated learning in Rust.</p>
     </div>
 </div>
 
@@ -779,7 +775,6 @@ Federated learning (FL) and privacy-preserving techniques face significant chall
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-KOKvSt2ihdTiWg62UsXS-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Key challenges in Federated Learning deployment.</p>
-        <p>Key challenges in Federated Learning deployment.</p>
     </div>
 </div>
 

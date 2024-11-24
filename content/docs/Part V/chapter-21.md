@@ -3,8 +3,8 @@ weight: 3700
 title: "Chapter 21"
 description: "Few-Shot and Zero-Shot Prompting with LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.393297+07:00"
-lastmod: "2024-11-19T16:42:28.393297+07:00"
+date: "2024-11-21T08:42:19.013278+07:00"
+lastmod: "2024-11-21T08:42:19.013278+07:00"
 katex: true
 draft: false
 toc: true
@@ -24,7 +24,6 @@ Zero-shot and few-shot prompting represent significant advancements in natural l
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-0XD4udN1IcemJ3sa9S0b-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Illustration on Zero-shot vs Few-shot promptings.</p>
-        <p>Illustration on Zero-shot vs Few-shot promptings.</p>
     </div>
 </div>
 
@@ -233,7 +232,6 @@ Few-shot prompting is a powerful technique in natural language processing, where
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-mSJ1Fpzye0EaASFmYecP-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 2:</span> Key concept of few-shot prompting.</p>
-        <p>Key concept of few-shot prompting.</p>
     </div>
 </div>
 

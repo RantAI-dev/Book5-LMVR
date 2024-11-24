@@ -3,8 +3,8 @@ weight: 2400
 title: "Chapter 12"
 description: "Efficient Training Techniques"
 icon: "article"
-date: "2024-11-19T16:42:27.872375+07:00"
-lastmod: "2024-11-19T16:42:27.872375+07:00"
+date: "2024-11-21T08:42:18.464589+07:00"
+lastmod: "2024-11-21T08:42:18.464589+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Efficient training of large language models (LLMs) is essential for optimizing r
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-bRbdg1JFglkwYUNxvfdZ-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Optimization of LLM training.</p>
-        <p>Optimization of LLM training.</p>
     </div>
 </div>
 
@@ -479,7 +478,6 @@ Distributed training has become a cornerstone for scaling large language models 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-o9XyOiGPoNOu6K7aNpNH-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Distributed training strategy for LLMs.</p>
-        <p>Distributed training strategy for LLMs.</p>
     </div>
 </div>
 
@@ -658,7 +656,6 @@ Hardware acceleration plays an essential role in training large language models 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Kcp1EhSnR4YaUZt4LiWT-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Hardware acceleration strategy for LLM training.</p>
-        <p>Hardware acceleration strategy for LLM training.</p>
     </div>
 </div>
 
@@ -1750,7 +1747,6 @@ CPU and GPU utilization profiling offers insights into computational resource us
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-CzOW1HmajecqO68mhkk5-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Optimization strategy for LLM training.</p>
-        <p>Optimization strategy for LLM training.</p>
     </div>
 </div>
 

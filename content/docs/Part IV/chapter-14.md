@@ -3,8 +3,8 @@ weight: 2800
 title: "Chapter 14"
 description: "LLMs in Healthcare"
 icon: "article"
-date: "2024-11-19T16:42:27.983192+07:00"
-lastmod: "2024-11-19T16:42:27.983192+07:00"
+date: "2024-11-21T08:42:18.591548+07:00"
+lastmod: "2024-11-21T08:42:18.591548+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Large language models (LLMs) hold significant potential in healthcare, offering 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-O59bwg0EfI22hY31GCel-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key challenges in LLM implementation in Healthcare.</p>
-        <p>Key challenges in LLM implementation in Healthcare.</p>
     </div>
 </div>
 
@@ -134,7 +133,6 @@ Healthcare data used in training large language models (LLMs) spans a diverse ra
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Ap0gvkXD8zR0ABgKfuaf-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Data pipeline for LLM application.</p>
-        <p>Data pipeline for LLM application.</p>
     </div>
 </div>
 
@@ -313,7 +311,6 @@ Training large language models (LLMs) on healthcare data requires a specialized 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-qn2JM9gENv5NzmEX3KNB-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Accuracy pipeline for LLMs in Healthcare.</p>
-        <p>Accuracy pipeline for LLMs in Healthcare.</p>
     </div>
 </div>
 
@@ -456,7 +453,6 @@ Inference and deployment of large language models (LLMs) in healthcare require p
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-AGbPgLqy8JbgOEucoGSx-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Deployment process of LLM applications in Healthcare.</p>
-        <p>Deployment process of LLM applications in Healthcare.</p>
     </div>
 </div>
 
@@ -552,7 +548,6 @@ Deploying large language models (LLMs) in healthcare necessitates careful attent
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-jO6wPlKT4qxikg3tKxWx-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Ethical and regulatory concerns of LLM apps in Healthcare.</p>
-        <p>Ethical and regulatory concerns of LLM apps in Healthcare.</p>
     </div>
 </div>
 
@@ -630,7 +625,6 @@ Large language models (LLMs) are beginning to revolutionize healthcare by enabli
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Xd8BQx9ZcWXHQsGXJyxD-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Pros and Cons to LLM apps in Healthcare.</p>
-        <p>Pros and Cons to LLM apps in Healthcare.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 2200
 title: "Chapter 10"
 description: "Open Foundational LLMs"
 icon: "article"
-date: "2024-11-19T16:42:27.709042+07:00"
-lastmod: "2024-11-19T16:42:27.709042+07:00"
+date: "2024-11-21T08:42:18.269964+07:00"
+lastmod: "2024-11-21T08:42:18.269964+07:00"
 katex: true
 draft: false
 toc: true
@@ -30,7 +30,6 @@ Open-source foundational models foster accessibility and flexibility, allowing d
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-GISEu9AbEpxEUcptLz49-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Open LLM Leaderboard from Hugging Face.</p>
-        <p>Open LLM Leaderboard from Hugging Face.</p>
     </div>
 </div>
 
@@ -333,7 +332,6 @@ Pre-trained models are a cornerstone of modern NLP, offering vast capabilities w
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-DkJYSkx6g6nc5QzVkKCT-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Hugging Face model hub.</p>
-        <p>Hugging Face model hub.</p>
     </div>
 </div>
 
@@ -353,7 +351,6 @@ The LLaMA (Large Language Model Meta AI) series, developed by Meta AI, is design
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-8BCr3A5cLYLSdB6grFYX-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> LLama 2 Demo at Hugging Face (Ref: <a href="https://huggingface.co/spaces/lmz/candle-llama2">https://huggingface.co/spaces/lmz/candle-llama2</a>).</p>
-        <p>LLama 2 Demo at Hugging Face (Ref: <a href="https://huggingface.co/spaces/lmz/candle-llama2">https://huggingface.co/spaces/lmz/candle-llama2</a>).</p>
     </div>
 </div>
 
@@ -1099,7 +1096,6 @@ Deploying large language models (LLMs) into production environments presents a u
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-SpRcgXO66RZMCHQbAS59-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Process of deploying LLM.</p>
-        <p>Process of deploying LLM.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 3600
 title: "Chapter 20"
 description: "Introduction to Prompt Engineering"
 icon: "article"
-date: "2024-11-19T16:42:28.341449+07:00"
-lastmod: "2024-11-19T16:42:28.341449+07:00"
+date: "2024-11-21T08:42:18.957289+07:00"
+lastmod: "2024-11-21T08:42:18.957289+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Prompt engineering is a foundational skill for guiding large language models (LL
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-SDn9THCa3ZirzhflNJ4L-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Prompt Engineering and GenAI/LLM Apps.</p>
-        <p>Prompt Engineering and GenAI/LLM Apps.</p>
     </div>
 </div>
 
@@ -285,7 +284,6 @@ Designing effective prompts for various applications is a foundational aspect of
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-OIqoaksXY8BWG472QWWp-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Challenges on prompt design.</p>
-        <p>Challenges on prompt design.</p>
     </div>
 </div>
 
@@ -413,7 +411,6 @@ Evaluating and refining prompts is a critical part of prompt engineering, enabli
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ksvKFPfdCNq9TcseE0OH-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Process to optimize prompt design.</p>
-        <p>Process to optimize prompt design.</p>
     </div>
 </div>
 
@@ -746,7 +743,6 @@ Prompt engineering has proven to be a transformative tool in various fields, fro
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-V2xkZ9mocFYAeWFQAPXU-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Examples of LLM applications in some industries like Healthcare and Finance.</p>
-        <p>Examples of LLM applications in some industries like Healthcare and Finance.</p>
     </div>
 </div>
 
@@ -843,7 +839,6 @@ The development of LLM applications follows a structured pipeline, beginning wit
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-n5O8bwtgHH2ABky8BOku-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> The common architecture of LLM Application with Prompt Engineering.</p>
-        <p>The common architecture of LLM Application with Prompt Engineering.</p>
     </div>
 </div>
 

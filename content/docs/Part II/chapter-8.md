@@ -3,8 +3,8 @@ weight: 1800
 title: "Chapter 8"
 description: "Multimodal Transformers and Extensions"
 icon: "article"
-date: "2024-11-19T16:42:29.038845+07:00"
-lastmod: "2024-11-19T16:42:29.038845+07:00"
+date: "2024-11-21T08:42:19.731658+07:00"
+lastmod: "2024-11-21T08:42:19.731658+07:00"
 katex: true
 draft: false
 toc: true
@@ -30,7 +30,6 @@ For example in graph-based multimodal learning, diverse data types such as image
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-5KSTrd65BW0ROkAZbFzn-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 1:</span> Illustration of multimodal learning paradigm.</p>
-        <p>Illustration of multimodal learning paradigm.</p>
     </div>
 </div>
 
@@ -49,7 +48,6 @@ where $Q_t$, $K_t$, and $V_t$ are the query, key, and value matrices for the tex
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-A0uRZjwcfvAAD225vJfy-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Illustration of cross-attention (Ref: <a href="https://arxiv.org/html/2403.03431v1">https://arxiv.org/html/2403.03431v1</a>).</p>
-        <p>Illustration of cross-attention (Ref: <a href="https://arxiv.org/html/2403.03431v1">https://arxiv.org/html/2403.03431v1</a>).</p>
     </div>
 </div>
 
@@ -175,7 +173,6 @@ Evaluating this multimodal transformer against unimodal models typically demonst
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-OlgzYreScElFkdDVZ8dY-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Illustration of CLIP-BERT architecture.</p>
-        <p>Illustration of CLIP-BERT architecture.</p>
     </div>
 </div>
 
@@ -350,7 +347,6 @@ Several multimodal Transformer models illustrate the effectiveness of these mech
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-CBmyqXIKs5pWuLl2CSTb-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Illustration of ViLBERT architecture.</p>
-        <p>Illustration of ViLBERT architecture.</p>
     </div>
 </div>
 
@@ -545,7 +541,6 @@ Lets see another example of UNITER (UNiversal Image-TExt Representation), which 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-4UBTQx3BWB7WUPIYQcs7-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 5:</span> Illustration of UNITER architecture.</p>
-        <p>Illustration of UNITER architecture.</p>
     </div>
 </div>
 
@@ -854,7 +849,6 @@ In multimodal learning, fusion techniques play a critical role in combining info
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-QJhPOg69iY7fmjV5m3IY-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Illustration of multimodal fusion techniques.</p>
-        <p>Illustration of multimodal fusion techniques.</p>
     </div>
 </div>
 
@@ -1143,7 +1137,6 @@ Multimodal Transformers have become pivotal in advancing AI capabilities across 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-hnorzf3YOOqcMZi7EqNq-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 7:</span> Illustration of multimodal BERT (MMBERT) architecture for medical image.</p>
-        <p>Illustration of multimodal BERT (MMBERT) architecture for medical image.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 2900
 title: "Chapter 15"
 description: "Financial Applications of LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.027430+07:00"
-lastmod: "2024-11-19T16:42:28.027430+07:00"
+date: "2024-11-21T08:42:18.654541+07:00"
+lastmod: "2024-11-21T08:42:18.655542+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ The financial sector has rapidly adopted large language models (LLMs) for applic
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-azwlauG7PflHnSIkcCRd-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key challenges on LLMs in Finance.</p>
-        <p>Key challenges on LLMs in Finance.</p>
     </div>
 </div>
 
@@ -165,7 +164,6 @@ Financial data pipelines form the backbone of large language model (LLM) applica
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-fL2hccd3FzJvjIXkATAq-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Typical data pipeline and preprocessing in Finance.</p>
-        <p>Typical data pipeline and preprocessing in Finance.</p>
     </div>
 </div>
 
@@ -289,7 +287,6 @@ Training large language models (LLMs) on financial data presents unique challeng
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Myxv2ge2mHRaZ8PDDoWy-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> LLM development phases for Finance.</p>
-        <p>LLM development phases for Finance.</p>
     </div>
 </div>
 
@@ -437,7 +434,6 @@ Inference and deployment of large language models (LLMs) in the financial sector
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-3zfz6pUFhzZmuqvL5eNh-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> LLM deployment in Finance.</p>
-        <p>LLM deployment in Finance.</p>
     </div>
 </div>
 
@@ -559,7 +555,6 @@ The deployment of large language models (LLMs) in finance introduces a host of e
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-gI6Z5kEBbJU1GPEvHvXB-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Ethical and regulatory consideration of LLM in Finance.</p>
-        <p>Ethical and regulatory consideration of LLM in Finance.</p>
     </div>
 </div>
 
@@ -684,7 +679,6 @@ As the adoption of large language models (LLMs) in finance accelerates, real-wor
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-zKMLDgSqlDRquIT9u7Du-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Applications of LLMs in Finance.</p>
-        <p>Applications of LLMs in Finance.</p>
     </div>
 </div>
 
