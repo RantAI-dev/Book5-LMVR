@@ -3,8 +3,8 @@ weight: 4100
 title: "Chapter 25"
 description: "Bias, Fairness, and Ethics in LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.545191+07:00"
-lastmod: "2024-11-19T16:42:28.545191+07:00"
+date: "2024-11-21T08:42:19.196897+07:00"
+lastmod: "2024-11-21T08:42:19.196897+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ As large language models (LLMs) become increasingly embedded in real-world appli
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ioeiQIwZ6iMFax5htSY8-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key elements of bias and ethics in LLMs.</p>
-        <p>Key elements of bias and ethics in LLMs.</p>
     </div>
 </div>
 
@@ -156,7 +155,6 @@ Detecting bias in large language models (LLMs) is a critical step in developing 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-PZGmbGi8FozgMMSB1bxS-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Common process for bias detection using Rust.</p>
-        <p>Common process for bias detection using Rust.</p>
     </div>
 </div>
 
@@ -317,7 +315,6 @@ As large language models (LLMs) become central to applications across diverse fi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-YSLaH5F91vyf90kmJRmh-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Bias mitigation strategy for LLMs.</p>
-        <p>Bias mitigation strategy for LLMs.</p>
     </div>
 </div>
 
@@ -478,7 +475,6 @@ The development and deployment of large language models (LLMs) require careful a
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-uLLm5TtIbs3NjxMTDemo-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Ethical strategy for LLMs.</p>
-        <p>Ethical strategy for LLMs.</p>
     </div>
 </div>
 
@@ -659,7 +655,6 @@ As large language models (LLMs) become integral to decision-making across indust
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-fhjjRZMQpkRmJ8gMmNPp-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Compliance complexities of LLM deployment.</p>
-        <p>Compliance complexities of LLM deployment.</p>
     </div>
 </div>
 
@@ -847,7 +842,6 @@ The fields of bias, fairness, and ethics in large language models (LLMs) are und
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-39vXswFVKwCBSNFcChXR-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Summary of Ethics and Bias in LLMs.</p>
-        <p>Summary of Ethics and Bias in LLMs.</p>
     </div>
 </div>
 

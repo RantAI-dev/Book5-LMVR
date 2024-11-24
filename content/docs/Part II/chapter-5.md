@@ -3,8 +3,8 @@ weight: 1500
 title: "Chapter 5"
 description: "'Bidirectional Models: BERT and Its Variants'"
 icon: "article"
-date: "2024-11-19T16:42:28.831486+07:00"
-lastmod: "2024-11-19T16:42:28.831486+07:00"
+date: "2024-11-21T08:42:19.545068+07:00"
+lastmod: "2024-11-21T08:42:19.545068+07:00"
 katex: true
 draft: false
 toc: true
@@ -30,7 +30,6 @@ Bidirectional models like BERT address this issue by considering both left-to-ri
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-7pzMEIdiYe415Ay4hTs1-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Overall pre-training and fine-tuning procedures for BERT (Ref: <a href="https://arxiv.org/pdf/1810.04805">https://arxiv.org/pdf/1810.04805</a>).</p>
-        <p>Overall pre-training and fine-tuning procedures for BERT (Ref: <a href="https://arxiv.org/pdf/1810.04805">https://arxiv.org/pdf/1810.04805</a>).</p>
     </div>
 </div>
 
@@ -62,7 +61,6 @@ Before discussing detail implementation of the BERT model, lets start with the i
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-8Tv8PqU5Q2zFhtK8hIds-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Illustration of input layer of BERT model.</p>
-        <p>Illustration of input layer of BERT model.</p>
     </div>
 </div>
 
@@ -187,7 +185,6 @@ The BERT (Bidirectional Encoder Representations from Transformers) architecture 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-2zDddUej72FLKJBEC0mK-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> BERT architecture consists of Transformer Encoder.</p>
-        <p>BERT architecture consists of Transformer Encoder.</p>
     </div>
 </div>
 

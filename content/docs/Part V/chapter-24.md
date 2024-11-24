@@ -3,8 +3,8 @@ weight: 4000
 title: "Chapter 24"
 description: "Interpretability and Explainability in LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.496481+07:00"
-lastmod: "2024-11-19T16:42:28.496481+07:00"
+date: "2024-11-21T08:42:19.143698+07:00"
+lastmod: "2024-11-21T08:42:19.143698+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ The rapid advancements in large language models (LLMs) have brought about powerf
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-2mo4J3FvQON2hNYXV3uV-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Challenges in interpretability and explainability in LLMs.</p>
-        <p>Challenges in interpretability and explainability in LLMs.</p>
     </div>
 </div>
 
@@ -150,7 +149,6 @@ This Rust code defines a simplified transformer model with an attention mechanis
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ScvYDZij1K5HkVIrakPT-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Simple visualization of attention layer.</p>
-        <p>Simple visualization of attention layer.</p>
     </div>
 </div>
 
@@ -316,7 +314,6 @@ As large language models (LLMs) become more integral to various applications, un
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-z84R7mAz5gB66IpF3znO-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Common methods for explainability of LLMs (SHAP, LIME and Counterfactual).</p>
-        <p>Common methods for explainability of LLMs (SHAP, LIME and Counterfactual).</p>
     </div>
 </div>
 
@@ -446,7 +443,6 @@ In the realm of interpretability for large language models (LLMs), techniques ar
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-fq3DFI8mR5So3ptpjNbD-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Common strategy for interpretability in LLMs.</p>
-        <p>Common strategy for interpretability in LLMs.</p>
     </div>
 </div>
 
@@ -551,7 +547,6 @@ Evaluating interpretability and explainability is essential to ensure that large
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-k72h3ZsqyDNbEsv3OPB8-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Process to evaluate interpretability metrics of LLMs using Rust.</p>
-        <p>Process to evaluate interpretability metrics of LLMs using Rust.</p>
     </div>
 </div>
 
@@ -661,7 +656,6 @@ As large language models (LLMs) become increasingly influential in domains such 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-kPj2pl0fn4nMXPdHNgwF-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Ethical and compliance concerns of LLMs.</p>
-        <p>Ethical and compliance concerns of LLMs.</p>
     </div>
 </div>
 
@@ -702,7 +696,6 @@ As large language models (LLMs) continue to increase in scale and complexity, th
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-0WMYFQ4a7TKje9IiMZbU-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Proposed model for advancing LLM interpretability using Rust.</p>
-        <p>Proposed model for advancing LLM interpretability using Rust.</p>
     </div>
 </div>
 

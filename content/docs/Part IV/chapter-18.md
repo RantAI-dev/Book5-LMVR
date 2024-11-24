@@ -3,8 +3,8 @@ weight: 3200
 title: "Chapter 18"
 description: "Creative Applications of LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.151261+07:00"
-lastmod: "2024-11-19T16:42:28.151261+07:00"
+date: "2024-11-21T08:42:18.771389+07:00"
+lastmod: "2024-11-21T08:42:18.771389+07:00"
 katex: true
 draft: false
 toc: true
@@ -25,7 +25,6 @@ Large language models (LLMs) are emerging as transformative tools in creative fi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-1kishbLwFPrxeQ77D16d-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key challenges in LLMs for Creative Apps.</p>
-        <p>Key challenges in LLMs for Creative Apps.</p>
     </div>
 </div>
 
@@ -117,7 +116,6 @@ Building data pipelines for creative applications of LLMs involves handling dive
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-MVYCyfwN39RvxC1wvf30-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Complexities of building data pipeline.</p>
-        <p>Complexities of building data pipeline.</p>
     </div>
 </div>
 
@@ -224,7 +222,6 @@ Training large language models (LLMs) on creative data introduces unique challen
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-MstNQ2BEsZLWr7KWMTO9-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Development scopes and complexities.</p>
-        <p>Development scopes and complexities.</p>
     </div>
 </div>
 
@@ -326,7 +323,6 @@ Deploying large language models (LLMs) in creative applications requires special
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-oTC0J4OolG4WGhLvLgJM-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> LLMs Optimization Pipeline.</p>
-        <p>LLMs Optimization Pipeline.</p>
     </div>
 </div>
 
@@ -422,7 +418,6 @@ Deploying large language models (LLMs) in creative fields introduces complex eth
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Wjvsqm1SeSl0StZwbgmk-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Navigating challenges in LLMs deployment.</p>
-        <p>Navigating challenges in LLMs deployment.</p>
     </div>
 </div>
 
@@ -521,7 +516,6 @@ The implementation of LLMs in creative fields has led to a new wave of artistic 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-cZWdCHLnT7gl9RN7OA4q-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Rust offers harmonious blend of developing LLM apps.</p>
-        <p>Rust offers harmonious blend of developing LLM apps.</p>
     </div>
 </div>
 

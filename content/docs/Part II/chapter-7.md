@@ -3,8 +3,8 @@ weight: 1700
 title: "Chapter 7"
 description: "'Multitask Learning: T5 and Unified Models'"
 icon: "article"
-date: "2024-11-19T16:42:28.982089+07:00"
-lastmod: "2024-11-19T16:42:28.982089+07:00"
+date: "2024-11-21T08:42:19.692582+07:00"
+lastmod: "2024-11-21T08:42:19.692582+07:00"
 katex: true
 draft: false
 toc: true
@@ -30,7 +30,6 @@ In multitask learning, consider the example of sentiment analysis and topic clas
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-oc7p9ePlHw2lpWAldyqe-v1.webp" >}}
         <p><span class="fw-bold ">Figure 1:</span> Illustration of Multitask Learning paradigm.</p>
-        <p>Illustration of Multitask Learning paradigm.</p>
     </div>
 </div>
 
@@ -46,7 +45,6 @@ Since Caruana's proposal, MTL has evolved through a series of advancements, part
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-99ZJORzDR0obSWXELWUA-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Historical journey of Multitask Learning paradigm.</p>
-        <p>Historical journey of Multitask Learning paradigm.</p>
     </div>
 </div>
 
@@ -96,7 +94,6 @@ In terms of data efficiency, multitask learning allows models to leverage data f
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-44I42HWGcG6iJYnlehgJ-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Illustration of context aware Q&A system.</p>
-        <p>Illustration of context aware Q&A system.</p>
     </div>
 </div>
 
@@ -116,7 +113,6 @@ In a multitask learning (MTL) architecture inspired by models like ELECTRA, inpu
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-RnIsJrNtNLRKrSAiCzav-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Example of ELECTRA-based MTL model architecture.</p>
-        <p>Example of ELECTRA-based MTL model architecture.</p>
     </div>
 </div>
 
@@ -387,7 +383,6 @@ The T5 architecture represents a significant innovation in the realm of multitas
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-aZQSQalpuRrifpo7DtTj-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Illustration of T5’s encoder-decoder model architecture.</p>
-        <p>Illustration of T5’s encoder-decoder model architecture.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 3000
 title: "Chapter 16"
 description: "LLMs in Legal and Compliance"
 icon: "article"
-date: "2024-11-19T16:42:28.077908+07:00"
-lastmod: "2024-11-19T16:42:28.077908+07:00"
+date: "2024-11-21T08:42:18.699534+07:00"
+lastmod: "2024-11-21T08:42:18.699534+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Large language models (LLMs) have the potential to significantly transform the l
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ZEtC0lTSdN1Qwdyt5Q7z-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key Challenges of LLMs in Legal and Compliance.</p>
-        <p>Key Challenges of LLMs in Legal and Compliance.</p>
     </div>
 </div>
 
@@ -131,7 +130,6 @@ Building data pipelines for legal and compliance applications involves handling 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-rrsS2SeqauW8zfo6sVM2-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Data preprocessing pipeline for legal and compliance LLMs.</p>
-        <p>Data preprocessing pipeline for legal and compliance LLMs.</p>
     </div>
 </div>
 
@@ -246,7 +244,6 @@ Training large language models (LLMs) for legal and compliance tasks requires a 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-YZVYyzV3rfIHPcxWJ7KJ-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Key considerations in training LLMs.</p>
-        <p>Key considerations in training LLMs.</p>
     </div>
 </div>
 
@@ -343,7 +340,6 @@ Inference and deployment in legal and compliance applications are critical phase
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-9y26ZCfAAJo29ftjYt95-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Balancing Accuracy vs Latency.</p>
-        <p>Balancing Accuracy vs Latency.</p>
     </div>
 </div>
 
@@ -444,7 +440,6 @@ Deploying large language models (LLMs) in legal and compliance introduces a uniq
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Uzu5AxGnR685bdYnhooV-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Ethical and Regulatory Aspects.</p>
-        <p>Ethical and Regulatory Aspects.</p>
     </div>
 </div>
 
@@ -532,7 +527,6 @@ Case studies of large language models (LLMs) in legal and compliance illustrate 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-PHH7qZBh2VybjO2Qly0a-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Some areas of AI transformations in legal and compliance.</p>
-        <p>Some areas of AI transformations in legal and compliance.</p>
     </div>
 </div>
 

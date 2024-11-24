@@ -3,8 +3,8 @@ weight: 2100
 title: "Chapter 9"
 description: "Building a Simple LLM from Scratch Using Rust"
 icon: "article"
-date: "2024-11-19T16:42:29.123651+07:00"
-lastmod: "2024-11-19T16:42:29.124668+07:00"
+date: "2024-11-21T08:42:19.824142+07:00"
+lastmod: "2024-11-21T08:42:19.824142+07:00"
 katex: true
 draft: false
 toc: true
@@ -52,7 +52,6 @@ In natural language processing (NLP), the Markov property is the idea that the l
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-TJTAnihZzki42o8jtNIz-v1.webp" >}}
         <p><span class="fw-bold ">Figure 1:</span> Simple illustration of Markov model in Weather prediction (Credit: GeeksforGeeks).</p>
-        <p>Simple illustration of Markov model in Weather prediction (Credit: GeeksforGeeks).</p>
     </div>
 </div>
 
@@ -135,7 +134,6 @@ $$ P(w_t | w_1, \dots, w_{t-1}) = \text{Softmax}(\mathbf{W}_o \mathbf{h}_t + \ma
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-PHGpZcFye1BypzX89VqY-v1.webp" >}}
         <p><span class="fw-bold ">Figure 2:</span> Illustration of simple language model using RNN.</p>
-        <p>Illustration of simple language model using RNN.</p>
     </div>
 </div>
 
@@ -160,7 +158,6 @@ Language model pretraining techniques, such as Masked Language Modeling (MLM) us
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-cq4L0EFMhfN2hc3LPWge-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 3:</span> Illustration of BERT model for language model (Credit: GeeeksforGeeks).</p>
-        <p>Illustration of BERT model for language model (Credit: GeeeksforGeeks).</p>
     </div>
 </div>
 
@@ -1345,7 +1342,6 @@ In this last section, we examine the challenges in building and deploying large 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-XeTIEUvLdvFdN3NwgpxX-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Roles of Rust in LLM development and deployment.</p>
-        <p>Roles of Rust in LLM development and deployment.</p>
     </div>
 </div>
 

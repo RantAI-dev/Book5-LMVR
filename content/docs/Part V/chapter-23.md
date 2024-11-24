@@ -3,8 +3,8 @@ weight: 3900
 title: "Chapter 23"
 description: "Testing the Quality of Large Language Models"
 icon: "article"
-date: "2024-11-19T16:42:28.455275+07:00"
-lastmod: "2024-11-19T16:42:28.455275+07:00"
+date: "2024-11-21T08:42:19.101161+07:00"
+lastmod: "2024-11-21T08:42:19.101161+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Testing the quality of Large Language Models (LLMs) is essential to ensure these
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-KNRhZ4d3epLnbVzxcGYg-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Common process to evaluate LLM quality.</p>
-        <p>Common process to evaluate LLM quality.</p>
     </div>
 </div>
 
@@ -401,7 +400,6 @@ Manual testing and human-in-the-loop (HITL) methodologies offer crucial insights
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-YN6W1xYKtsQTKHwwi3lg-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Challenges in integrating manual and automated testings.</p>
-        <p>Challenges in integrating manual and automated testings.</p>
     </div>
 </div>
 
@@ -594,7 +592,6 @@ Bias and fairness testing in large language models (LLMs) has emerged as a criti
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-2PJXXIfUCcK2AmWbfaCq-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Process of bias identification in LLMs.</p>
-        <p>Process of bias identification in LLMs.</p>
     </div>
 </div>
 
@@ -811,7 +808,6 @@ The robustness and security of large language models (LLMs) have become crucial 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-uZ5RhArLIjqbgHWZN5JT-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Robustness and Security Tests.</p>
-        <p>Robustness and Security Tests.</p>
     </div>
 </div>
 

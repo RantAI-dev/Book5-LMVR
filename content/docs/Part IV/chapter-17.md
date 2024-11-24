@@ -3,8 +3,8 @@ weight: 3100
 title: "Chapter 17"
 description: "Customer Service and E-commerce"
 icon: "article"
-date: "2024-11-19T16:42:28.109969+07:00"
-lastmod: "2024-11-19T16:42:28.109969+07:00"
+date: "2024-11-21T08:42:18.735118+07:00"
+lastmod: "2024-11-21T08:42:18.736155+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Large language models (LLMs) are becoming integral to customer service and e-com
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-cMTz0x2WWxNEG6n5Jlzi-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key challenges in integrating LLMs in Customer Service.</p>
-        <p>Key challenges in integrating LLMs in Customer Service.</p>
     </div>
 </div>
 
@@ -126,7 +125,6 @@ Data pipelines are the backbone of customer service and e-commerce applications 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ZRASNqfjubyoYLxMY41R-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Complexities of building data pipeline for CS and e-Commerce.</p>
-        <p>Complexities of building data pipeline for CS and e-Commerce.</p>
     </div>
 </div>
 
@@ -327,7 +325,6 @@ The inference process for customer service and e-commerce LLMs requires special 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-HcFtaZE7zx8ru8twPf1F-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> The flow of deployment and optimization.</p>
-        <p>The flow of deployment and optimization.</p>
     </div>
 </div>
 
@@ -427,7 +424,6 @@ Deploying large language models (LLMs) in customer service and e-commerce raises
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-SWJJgcZnhEG1fD5FjCov-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Process of Reliable and Ethical AI in Customer Service.</p>
-        <p>Process of Reliable and Ethical AI in Customer Service.</p>
     </div>
 </div>
 
@@ -519,7 +515,6 @@ Case studies in customer service and e-commerce showcase the transformative impa
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-svf9fJm6taUFWB4ql0c0-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Trends of LLMs in CS and e-Commerce.</p>
-        <p>Trends of LLMs in CS and e-Commerce.</p>
     </div>
 </div>
 

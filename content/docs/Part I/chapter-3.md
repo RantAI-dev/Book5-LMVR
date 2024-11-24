@@ -3,8 +3,8 @@ weight: 1100
 title: "Chapter 3"
 description: "Neural Networks Architectures for NLP"
 icon: "article"
-date: "2024-11-19T16:42:28.674802+07:00"
-lastmod: "2024-11-19T16:42:28.676322+07:00"
+date: "2024-11-21T08:42:19.377384+07:00"
+lastmod: "2024-11-21T08:42:19.377384+07:00"
 katex: true
 draft: false
 toc: true
@@ -171,7 +171,6 @@ The activation function used in the hidden layers significantly affects the mode
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-KCHmcGKFbedy035Cy4vs-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> MLP activation functions.</p>
-        <p>MLP activation functions.</p>
     </div>
 </div>
 
@@ -345,7 +344,6 @@ Recurrent Neural Networks (RNNs) have been a cornerstone of neural network archi
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-331xGMO52yVwjmoasF4y-v1.svg" >}}
         <p><span class="fw-bold ">Figure 4:</span> An RNN with hidden state (Credit to d2l.ai)</p>
-        <p>An RNN with hidden state (Credit to d2l.ai)</p>
     </div>
 </div>
 
@@ -409,7 +407,6 @@ To combat these problems, several techniques have been developed. For vanishing 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-1IxiLdN5eSAQLDIkNVKQ-v1.svg" >}}
         <p><span class="fw-bold ">Figure 5:</span> A LSTM cell with hidden state (Credit d2l.ai).</p>
-        <p>A LSTM cell with hidden state (Credit d2l.ai).</p>
     </div>
 </div>
 
@@ -443,7 +440,6 @@ Here, $F_t$, $I_t$, and $O_t$ represent the forget, input, and output gates, res
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ooh1VyRQIMkfQPZgtfx1-v1.svg" >}}
         <p><span class="fw-bold ">Figure 6:</span> A GRU cell with hidden state.</p>
-        <p>A GRU cell with hidden state.</p>
     </div>
 </div>
 
@@ -710,7 +706,6 @@ Convolutional Neural Networks (CNNs), originally developed for image processing,
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-NArmtrklkgenplPQj944-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Illustration of CNN architecture for NLP task (Ref: <a href="https://arxiv.org/pdf/1703.03091">https://arxiv.org/pdf/1703.03091</a>).</p>
-        <p>Illustration of CNN architecture for NLP task (Ref: <a href="https://arxiv.org/pdf/1703.03091">https://arxiv.org/pdf/1703.03091</a>).</p>
     </div>
 </div>
 
@@ -970,7 +965,6 @@ The development of attention mechanisms has revolutionized the field of Natural 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-FKvJ0bEroAvw0XXnnsdW-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> Understanding self-attention mechanism (Credit: Sebastian Raschka)</p>
-        <p>Understanding self-attention mechanism (Credit: Sebastian Raschka)</p>
     </div>
 </div>
 
@@ -997,7 +991,6 @@ The transformer architecture consists of two main components: the encoder and th
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-0fgxigI0qh1xNcSS2A8t-v1.svg" >}}
         <p><span class="fw-bold ">Figure 9:</span> Transformer architecture.</p>
-        <p>Transformer architecture.</p>
     </div>
 </div>
 
@@ -1024,7 +1017,6 @@ BERT (Bidirectional Encoder Representations from Transformers) is a groundbreaki
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-45st5xbkWJHjOxPa8aJA-v1.png" >}}
         <p><span class="fw-bold ">Figure 10:</span> BERT (Bidirectional Encoder Representations from Transformers) architecture.</p>
-        <p>BERT (Bidirectional Encoder Representations from Transformers) architecture.</p>
     </div>
 </div>
 
@@ -1036,7 +1028,6 @@ In high-performing models like BERT, there are typically 12 layers, each with 12
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-sL9fTWrjmPvOdQzxWVH1-v1.png" >}}
         <p><span class="fw-bold ">Figure 11:</span> Dodrio interactive tool to understand how multi-head attentions work.</p>
-        <p>Dodrio interactive tool to understand how multi-head attentions work.</p>
     </div>
 </div>
 
@@ -1052,7 +1043,6 @@ By using Dodrio’s interactive visualizations, you can dive into the multi-head
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-E5CxgiT0iCmwBCgtzk9M-v1.png" >}}
         <p><span class="fw-bold ">Figure 12:</span> Transformer Explainer tool to understand how transformer works for language model.</p>
-        <p>Transformer Explainer tool to understand how transformer works for language model.</p>
     </div>
 </div>
 
@@ -1369,7 +1359,6 @@ In recent years, pre-trained language models like BERT and GPT have revolutioniz
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-jJj04waaI54uyemzKACD-v1.png" >}}
         <p><span class="fw-bold ">Figure 13:</span> Illustrated GPT-2 architecture.</p>
-        <p>Illustrated GPT-2 architecture.</p>
     </div>
 </div>
 

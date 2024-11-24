@@ -3,8 +3,8 @@ weight: 1000
 title: "Chapter 2"
 description: "Mathematical Foundations for LLMs"
 icon: "article"
-date: "2024-11-19T16:42:28.276148+07:00"
-lastmod: "2024-11-19T16:42:28.276148+07:00"
+date: "2024-11-21T08:42:18.884308+07:00"
+lastmod: "2024-11-21T08:42:18.885388+07:00"
 katex: true
 draft: false
 toc: true

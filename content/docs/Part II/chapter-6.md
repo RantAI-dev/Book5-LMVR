@@ -3,8 +3,8 @@ weight: 1600
 title: "Chapter 6"
 description: "'Generative Models: GPT and Beyond'"
 icon: "article"
-date: "2024-11-19T16:42:28.931819+07:00"
-lastmod: "2024-11-19T16:42:28.931819+07:00"
+date: "2024-11-21T08:42:19.645241+07:00"
+lastmod: "2024-11-21T08:42:19.645241+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Generative models play a crucial role in machine learning by modeling the underl
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-rCRQPzy7GRYxSIgPEhvZ-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Discriminative vs Generative Models.</p>
-        <p>Discriminative vs Generative Models.</p>
     </div>
 </div>
 
@@ -77,7 +76,6 @@ Since 2018, OpenAI's GPT models have seen a rapid increase in the number of para
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-1yyOzCHsIb0oYBXNfNtR-v1.webp" >}}
         <p><span class="fw-bold ">Figure 2:</span> Numbers of parameters of GPT models.</p>
-        <p>Numbers of parameters of GPT models.</p>
     </div>
 </div>
 
@@ -308,7 +306,6 @@ The GPT (Generative Pre-trained Transformer) architecture has revolutionized the
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-u3gVcexpmTkzBQnrETnr-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Illustration of GPT-2 architecture.</p>
-        <p>Illustration of GPT-2 architecture.</p>
     </div>
 </div>
 
@@ -584,7 +581,6 @@ The code defines a generative model architecture with configurable hyperparamete
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-oHvUxZ4KXIC2oSvMZAtG-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Growth of transformer blocks in various GPT-2 models.</p>
-        <p>Growth of transformer blocks in various GPT-2 models.</p>
     </div>
 </div>
 
@@ -609,7 +605,6 @@ This scaling of model parameters aligns with the exponential "More's Law" observ
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-I8HKwFaE7jawZvvgfEwc-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> The NLP’s Moore’s law.</p>
-        <p>The NLP’s Moore’s law.</p>
     </div>
 </div>
 
@@ -621,7 +616,6 @@ The differences in architecture across these GPT variants lie primarily in the n
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-mqVgJ3qL9pcY9rz0DS6w-v1.png" >}}
         <p><span class="fw-bold ">Figure 6:</span> Model size comparison of GPT variants.</p>
-        <p>Model size comparison of GPT variants.</p>
     </div>
 </div>
 
@@ -839,7 +833,6 @@ In this section we discuss the detailed methods OpenAI employs for training, fin
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-J67zNjyqKxM6ioNt2Pf6-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> How OpenAI train GPT 3.5 model.</p>
-        <p>How OpenAI train GPT 3.5 model.</p>
     </div>
 </div>
 
@@ -1181,7 +1174,6 @@ In recent years, the field of generative modeling has expanded beyond autoregres
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-u5mui8fwOw66TBwzmAJD-v1.webp" >}}
         <p><span class="fw-bold ">Figure 8:</span> Comparison between GAN, VAE and Diffusion models.</p>
-        <p>Comparison between GAN, VAE and Diffusion models.</p>
     </div>
 </div>
 
@@ -4082,7 +4074,6 @@ where the rotation matrix $R$ is a function of the relative position in the sequ
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-bq3r3JDy49iXKJooDWGD-v1.png" >}}
         <p><span class="fw-bold ">Figure 9:</span> Comparison of LLAMA and GPT-3 (decoder-only) Architectures.</p>
-        <p>Comparison of LLAMA and GPT-3 (decoder-only) Architectures.</p>
     </div>
 </div>
 

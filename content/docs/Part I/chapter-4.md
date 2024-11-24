@@ -3,8 +3,8 @@ weight: 1200
 title: "Chapter 4"
 description: "The Transformer Architecture"
 icon: "article"
-date: "2024-11-19T16:42:28.715241+07:00"
-lastmod: "2024-11-19T16:42:28.715241+07:00"
+date: "2024-11-21T08:42:19.427019+07:00"
+lastmod: "2024-11-21T08:42:19.427019+07:00"
 katex: true
 draft: false
 toc: true
@@ -44,7 +44,6 @@ One of the key advantages of the Transformer model is its shift from sequential 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-l27fwg4yZdgjT1n0eESy-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> GPT vs BERT architecture.</p>
-        <p>GPT vs BERT architecture.</p>
     </div>
 </div>
 
@@ -309,7 +308,6 @@ The self-attention mechanism lies at the heart of the Transformer architecture, 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-VYj8ePTNWmhtqRGsGNXm-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> Illustration of encoder self-attention mechanism (Credit to <a href="https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853">Ketan Doshi</a>).</p>
-        <p>Illustration of encoder self-attention mechanism (Credit to <a href="https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853">Ketan Doshi</a>).</p>
     </div>
 </div>
 
@@ -339,7 +337,6 @@ One key advantage of self-attention over traditional attention mechanisms is its
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-NpCGTy0HgoOugVLNGZkW-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Multi Head Attention (Credit to <a href="https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853">Ketan Doshi</a>).</p>
-        <p>Multi Head Attention (Credit to <a href="https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853">Ketan Doshi</a>).</p>
     </div>
 </div>
 
@@ -508,7 +505,6 @@ To optimize self-attention for large sequences, techniques like sparse attention
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-DRuhbtDvveXg8unkLTtM-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Illustration of sparse attention mechanism.</p>
-        <p>Illustration of sparse attention mechanism.</p>
     </div>
 </div>
 
@@ -726,7 +722,6 @@ This Rust code demonstrates how to implement sparse attention using the Longform
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-IbQUH3xOgXE3mkUmm3c2-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Illustration of Linformer attention architecture.</p>
-        <p>Illustration of Linformer attention architecture.</p>
     </div>
 </div>
 
@@ -988,7 +983,6 @@ In recent trends, researchers have explored efficient multi-head attention mecha
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-sdQQWP5crbHJ0wXvVlQ5-v1.jpeg" >}}
         <p><span class="fw-bold ">Figure 6:</span> Compact low rank factorization for multi head attention (Ref: <a href="https://arxiv.org/pdf/1912.00835v2">https://arxiv.org/pdf/1912.00835v2</a>).</p>
-        <p>Compact low rank factorization for multi head attention (Ref: <a href="https://arxiv.org/pdf/1912.00835v2">https://arxiv.org/pdf/1912.00835v2</a>).</p>
     </div>
 </div>
 
@@ -1250,7 +1244,6 @@ The encoder-decoder architecture is central to the design of the Transformer mod
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 40%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-NvakgAoMNmgPRyQtEA34-v1.png" >}}
         <p><span class="fw-bold ">Figure 7:</span> Encoder and decoder transformer architecture (Attention is all you need paper).</p>
-        <p>Encoder and decoder transformer architecture (Attention is all you need paper).</p>
     </div>
 </div>
 
@@ -1442,7 +1435,6 @@ Two key techniques that have contributed significantly to the stability and perf
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-wQhgGcs195mtRKA8SzN4-v1.png" >}}
         <p><span class="fw-bold ">Figure 8:</span> (a) Post-LN Transformer layer; (b) Pre-LN Transformer layer (<a href="https://arxiv.org/pdf/2002.04745">https://arxiv.org/pdf/2002.04745</a>).</p>
-        <p>(a) Post-LN Transformer layer; (b) Pre-LN Transformer layer (<a href="https://arxiv.org/pdf/2002.04745">https://arxiv.org/pdf/2002.04745</a>).</p>
     </div>
 </div>
 
@@ -1461,7 +1453,6 @@ where $\mu$ and $\sigma$ are the mean and standard deviation of the input across
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-u8v0SZiwVq7XlektarlT-v1.png" >}}
         <p><span class="fw-bold ">Figure 9:</span> Residual connection in Transformer architecture.</p>
-        <p>Residual connection in Transformer architecture.</p>
     </div>
 </div>
 

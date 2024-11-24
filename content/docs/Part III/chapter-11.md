@@ -3,8 +3,8 @@ weight: 2300
 title: "Chapter 11"
 description: "Retrieval-Augmented Generation (RAG)"
 icon: "article"
-date: "2024-11-19T16:42:27.801380+07:00"
-lastmod: "2024-11-19T16:42:27.801380+07:00"
+date: "2024-11-21T08:42:18.367335+07:00"
+lastmod: "2024-11-21T08:42:18.368349+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ Retrieval-Augmented Generation (RAG) is an advanced NLP technique that strengthe
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Y8tgbXYP2svtGvPIbDQI-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Key concepts in RAG method.</p>
-        <p>Key concepts in RAG method.</p>
     </div>
 </div>
 
@@ -931,7 +930,6 @@ In a Retrieval-Augmented Generation (RAG) system, the interaction between the re
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-oihURZpS6SKfqRGrBAZJ-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> From user query to contextual response.</p>
-        <p>From user query to contextual response.</p>
     </div>
 </div>
 
@@ -1122,7 +1120,6 @@ Fine-tuning Retrieval-Augmented Generation (RAG) systems enables the retriever a
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-UVVf4a2wCxM7YuHcd9Uq-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> From initialization to optimized RAG outputs.</p>
-        <p>From initialization to optimized RAG outputs.</p>
     </div>
 </div>
 
@@ -1285,7 +1282,6 @@ Deploying Retrieval-Augmented Generation (RAG) systems introduces unique challen
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-5t54iKgBsb4W3J5foMjB-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> Flow of RAG deployment.</p>
-        <p>Flow of RAG deployment.</p>
     </div>
 </div>
 
@@ -1517,7 +1513,6 @@ Developing and deploying Retrieval-Augmented Generation (RAG) systems presents s
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-qMQ4kmQzSbNCqDWRbUNj-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Challenges and future directions of RAG.</p>
-        <p>Challenges and future directions of RAG.</p>
     </div>
 </div>
 

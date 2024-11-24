@@ -3,8 +3,8 @@ weight: 4300
 title: "Chapter 27"
 description: "The Future of Large Language Models"
 icon: "article"
-date: "2024-11-19T16:42:28.641084+07:00"
-lastmod: "2024-11-19T16:42:28.641084+07:00"
+date: "2024-11-21T08:42:19.324395+07:00"
+lastmod: "2024-11-21T08:42:19.324395+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,6 @@ The field of large language models (LLMs) has seen remarkable advancements in re
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-WIgKuvE38SjsNZkzx7ql-v1.png" >}}
         <p><span class="fw-bold ">Figure 1:</span> Future advancements in LLMs using Rust technology.</p>
-        <p>Future advancements in LLMs using Rust technology.</p>
     </div>
 </div>
 
@@ -205,7 +204,6 @@ As large language models (LLMs) evolve, new model architectures are emerging to 
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-ucU2XHmwSP9ieMfSBhiE-v1.png" >}}
         <p><span class="fw-bold ">Figure 2:</span> LLM architecture implementation.</p>
-        <p>LLM architecture implementation.</p>
     </div>
 </div>
 
@@ -391,7 +389,6 @@ In recent years, significant advancements in training techniques and optimizatio
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-VImbPBJeGFhIVfTgY02A-v1.png" >}}
         <p><span class="fw-bold ">Figure 3:</span> Common optimization techniques for LLMs.</p>
-        <p>Common optimization techniques for LLMs.</p>
     </div>
 </div>
 
@@ -545,7 +542,6 @@ Deploying large language models (LLMs) presents unique challenges in balancing l
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-Z06mMp4iNnHUqs6nnJoP-v1.png" >}}
         <p><span class="fw-bold ">Figure 4:</span> LLM Deployment Optimizations.</p>
-        <p>LLM Deployment Optimizations.</p>
     </div>
 </div>
 
@@ -660,7 +656,6 @@ As large language models (LLMs) become more deeply integrated into critical syst
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/L6A504iArDGBvUq8WSeO-idTDY1lZJ8tyw49GzRnH-v1.png" >}}
         <p><span class="fw-bold ">Figure 5:</span> Ethical complexities and challenges in LLMs.</p>
-        <p>Ethical complexities and challenges in LLMs.</p>
     </div>
 </div>
 
