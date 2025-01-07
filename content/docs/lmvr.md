@@ -31,11 +31,11 @@ toc: true
                 Support our mission by purchasing or sharing the LMVR companion guide.
             </p>
             <div class="d-flex justify-content-center mb-3 flex-wrap">
-                <a href="https://www.amazon.com/dp/B0DK2NH9CZ" class="btn btn-lg btn-outline-support m-2 support-btn">
+                <a href="https://www.amazon.com/dp/B0DSCP6DDD" class="btn btn-lg btn-outline-support m-2 support-btn">
                     <img src="../../images/kindle.png" alt="Amazon Logo" class="support-logo-image">
                     <span class="support-btn-text">Buy on Amazon</span>
                 </a>
-                <a href="https://play.google.com/store/books/details?id=NnwpEQAAQBAJ" class="btn btn-lg btn-outline-support m-2 support-btn">
+                <a href="https://play.google.com/store/books/details?id=NKc8EQAAQBAJ" class="btn btn-lg btn-outline-support m-2 support-btn">
                     <img src="../../images/GBooks.png" alt="Google Books Logo" class="support-logo-image">
                     <span class="support-btn-text">Buy on Google Books</span>
                 </a>
